@@ -1,0 +1,14 @@
+{
+  "name": "pharma-master",
+  "version": "1.0.0",
+  "description": "Pharmacy Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
